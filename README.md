@@ -1,29 +1,307 @@
-# CopilotAgent.github.io
+Knowledge Base for JD Matching and Outreach
+Vendor
 
-Responsibilities
-
-Act as a bridge between investment professionals and digital teams, working closely with analysts, associates, product managers, data scientists, and software engineers.
-Support functions including:
-
-Due diligence: DDQs, investment memorandums (IMs), industry research, competitive landscape analysis, company profiling, deal sourcing, pipeline tracking, target screening, and term sheet analysis.
-Modeling & Valuation: Build and support models including LBO, DCF, merger models, operating models, fund models, and sensitivity analyses. Assist in QoE reviews, comps, and precedent transactions.
-Portfolio Monitoring: Automate reporting for 409A valuations, ASC 820 compliance, board materials, KPI dashboards, and add-on acquisition tracking.
-Investor Relations: Enable data-driven investor communications including PPMs, newsletters, thought leadership content, case studies, and marketing analysis.
+Name: TresVista
+Purpose: Knowledge base to help a Copilot agent match job descriptions (JDs) to TresVista service lines and draft tailored outreach.
 
 
-Build and maintain dashboards and metrics to support investment decision-making and performance tracking.
-Independently conduct data analysis using existing strategies and frameworks relevant to investment workflows.
-Partner with data engineers to define and build data models that support financial and operational analysis.
-Integrate tools and platforms such as Capital IQ, PitchBook, FactSet, Refinitiv, Bloomberg, and AlphaSense to automate data ingestion, transformation, and analysis.
-Advocate for and enforce data analytics best practices across the RIS department.
-Present analytical findings and prototypes to stakeholders and team members.
-Collaborate with internal and external clients to refine requirements and deliver impactful solutions.
-Mentor junior team members and contribute to knowledge sharing across the team.
+Service Lines
+1. Research and Investment Services (RIS)
+Summary:
+Full-service support across the investment lifecycle for deal teams, advisors, portfolio managers, and research analysts.
+Capability Groups
 
 
-Qualifications
+Research and Due Diligence
 
-Master’s degree (MSc) in a quantitative field such as Statistics, Finance, Economics, Data Science, or Computer Science.
-3–6 years of hands-on experience in data analytics, preferably within investment research, financial services, or consulting.
-Applied knowledge of data analytics and pipelining tools across all stages of the data lifecycle.
-Deep understanding of statistical approaches and their application in financial modeling and investment analysis.
+Detailed industry research and competitive landscaping
+Detailed company profiling
+Creating DDQs and liaising with management teams
+Preparing information memorandums (IMs) and research reports
+Financial statement analysis
+Term sheet evaluation
+Analyst summaries and flash notes
+Tracking economic indicators and business journals
+
+
+
+Marketing Analysis
+
+Content marketing strategy
+Thought leadership pieces and whitepapers
+Newsletters and case studies
+Private placement memorandums (PPMs)
+Social media and email campaign management
+Periodic investor communications
+Graphic design for marketing materials
+
+
+
+Modeling and Analysis
+
+Financial modeling and assumption validation
+Leveraged buyout (LBO) modeling
+Discounted cash flow (DCF) modeling
+Operational and merger modeling
+Fund modeling
+Budget modeling and variance analysis
+Sensitivity analysis
+Quality of earnings (QoE) analysis
+Industry trends analysis
+
+
+
+Portfolio Management
+
+Maintaining operating models
+Periodic portfolio valuations (IRC 409A, ASC 820)
+Trading and transaction comparables analysis
+Identifying add-ons and potential acquirers
+Board materials and market insights
+Tracking key business drivers
+Hypothesis testing
+
+
+
+Deal Sourcing
+
+Identifying targets
+Preparing target profiles
+Intermediary mapping and outreach
+Industry overview and market sizing
+Summarizing IMs
+Reviewing and editing NDAs
+Industry mapping
+Tracking relevant news and trends
+
+
+
+Ideal JD Signals:
+Investment research, due diligence, competitive landscape; PE/VC/IB analyst/associate responsibilities; Financial modeling (LBO, DCF), valuation, comps; Deal sourcing, pipeline building, target screening; Portfolio monitoring, quarterly valuations, board packs; IR/marketing content, investor communications.
+
+2. CFO Office Services (CFOOS)
+Summary:
+Finance and accounting support across fund administration, investor services, management company and corporate accounting.
+Capability Groups
+
+
+Fund Administration
+
+Booking investment transactions; mark-to-market of holdings
+Accruals for expenses, income, corporate expenses
+Realized/unrealized gains/losses calculations and records
+Custody, cash, and bank reconciliations
+Carried interest and management fee calculations
+NAV packages, waterfall, returns
+Monthly/quarterly/annual statements with footnotes
+
+
+
+Investor Services
+
+Maintain investor records
+Issue capital call and distribution notices; bank reconciliations
+Partner capital statements
+Distribute investor reports
+Handle investor queries and KYCs
+Create investor profiles
+
+
+
+Management Company Accounting
+
+Chart of accounts setup
+Intercompany transactions; income/expense posting
+Reconciliations (bank accounts, credit cards, customer statements)
+Management fee calculations
+Month-end/year-end statements with footnotes
+MIS reporting and budgeting
+Audit support
+SPV accounting
+
+
+
+Corporate Accounting
+
+Sales/purchase order processing
+AR/AP ledger processing and aging reports
+Bank wire creation and credit card expenses
+Invoice reconciliation to customer payments
+Bad debts/delinquency reporting
+Books clean-up
+Vendor data management
+
+
+
+Ideal JD Signals:
+Fund accounting, NAV, waterfall, LP reporting; Capital calls, distributions, partner capital accounting; AP/AR, reconciliations, month-end close, audit support; Controller/accountant roles in funds, RE, credit, PE/VC; SPV accounting, management company accounting.
+
+3. Data Intelligence Group (DIG)
+Summary:
+End-to-end data, analytics, AI, and product engineering to turn data into competitive advantage.
+Capability Groups
+
+
+Advanced Analytics
+
+Geospatial analytics
+Time series forecasting
+Streaming analytics
+Fraud and risk analytics
+
+
+
+Data Engineering & Cloud
+
+Cloud services
+Data pipelines and ETL/ELT
+Data modeling, DataOps
+Data storage and architecture
+
+
+
+Artificial Intelligence
+
+Machine learning and deep learning
+Generative AI and computer vision
+
+
+
+Product Development
+
+Web and mobile development
+OTS/COTS product integration
+
+
+
+Platform Engineering & DevOps
+
+Build and maintain dev platforms
+Standardize delivery processes and CI/CD
+
+
+
+Dashboarding & Automation
+
+Business intelligence and AI-powered BI
+Process automation
+Periodic/KPI reporting and dashboards
+
+
+
+Ideal JD Signals:
+Data engineer/scientist/analyst roles; Python/SQL/ETL/ELT; Cloud (Azure/AWS/GCP), Snowflake/Databricks/BigQuery/Redshift; BI and dashboarding (Power BI/Tableau/Looker); ML/GenAI, MLOps, computer vision, NLP; CI/CD, DevOps, platform engineering.
+
+4. Process Support Services (PSS)
+Summary:
+High-volume, data-intensive support functions that add operating leverage and execution efficiency.
+Capability Groups
+
+
+Business Development Support
+
+Target/prospect list building
+Distribution/contact list management
+Event attendee lists
+Mass outreach email campaigns
+CRM data migration
+CRM data updates and verification
+De-duplicate records
+Update active deal information
+Standardize company/contact info
+Tag/log entities in CRM
+Update call/meeting notes
+
+
+
+Financial Process Services
+
+Invoice processing
+T&E claims
+Vendor master and reconciliation
+Payments and query handling
+PR/PO processes
+Balance sheet reconciliations
+Posting journal entries
+Fixed asset (FA) transactions
+Financial reporting
+Order-to-cash: invoicing, cash application, deductions, reconciliation, collections
+Customer master data
+
+
+
+Graphic Design Services
+
+Brand identity and logo design
+Corporate stationery
+Marketing materials, whitepapers
+Brochures/proposal decks; banners/flyers
+Magazines and annual reports
+Event/special occasion collaterals
+Posters, event creatives, holiday cards
+Templates, formatting, document design
+Infographic layout and data visualization
+Professional brush-up of documents
+
+
+
+Library Services
+
+Industry and fund screenings
+List building database support
+Trading and transaction comps pulls
+M&A transaction runs
+Deal document and information search
+Sourcing industry/market/broker reports and primers
+Macroeconomic and country data pulls
+Company/industry news runs; custom newsletters
+Public Information Book (PIB) compilation
+
+
+
+Ideal JD Signals:
+CRM ops (Salesforce/HubSpot/MS Dynamics), list building, data hygiene; Marketing ops, email campaigns, event lists; AP/AR shared services, order-to-cash, procure-to-pay; Graphic design, pitch deck formatting, template design; Desk research, data/library research support.
+
+Differentiators
+
+
+Value Proposition:
+
+Flexible HR/staffing model with dedicated, tiered team support
+Multiple layers of quality checks and service excellence
+Operating leverage via centralized resource pool integrated across the client value chain
+Cost efficiency: lower indirect costs and meaningful direct savings
+
+
+
+Delivery Model:
+3-tier delivery model: dedicated contact for daily operations and strategic discussions; best-in-class compliance, IT, and operations; 10+ years of experience brought to each project.
+
+
+Scale and Reach:
+
+Clients: 1,000+
+Countries: 80+
+Global Offices: 7
+
+
+
+
+Matching Scoring Rule
+
+Weighted keyword and concept match between JD signals and capability keywords
++10 for explicit functional terms
++5 for tool matches
+-10 if JD indicates in-house leadership-only scope (strategy-only)
+
+Thresholds:
+
+Strong Match: ≥ 70
+Possible Match: 50–69
+
+Overrides:
+
+Fund accounting/NAV/LP reporting → CFO Office Services
+Data/analytics/engineering/AI → Data Intelligence Group
+Investment research, modeling, diligence, or deal work → Research and Investment Services
+CRM/list building/AP-AR/shared services/design/desk research → Process Support Services
